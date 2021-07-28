@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Michael
 - 🌱 I’m currently in school majoring in Cyber Security
-- 💞️ I'm looking for part time internships or full-time Cyber Security positions
+- 💞️ I'm looking for part time internships until 2023 when I graduate with BS and MS degrees
+-  The current repositories only contain coursework projects so far but I will soon begin my senior thesis project
 
 
 <!---
